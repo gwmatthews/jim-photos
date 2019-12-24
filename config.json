@@ -1,0 +1,8 @@
+{
+  "input": "./photos",
+  "output": "./docs",
+  "title": "gallery",
+  "index": "gallery.html",
+  "theme": "cards",
+  "theme-style": "./my-style.css"
+}

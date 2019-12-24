@@ -1,17 +1,4 @@
-2019-12-24T04:36:56.337Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2019-12-24T04:36:56.339Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2019-12-24T04:41:16.991Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2019-12-24T04:41:16.992Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2019-12-24T04:41:58.897Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2019-12-24T04:41:58.899Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2019-12-24T04:44:20.203Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2019-12-24T04:44:20.205Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2019-12-24T04:46:27.177Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2019-12-24T04:46:27.179Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2019-12-24T04:53:07.801Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2019-12-24T04:53:07.803Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2019-12-24T04:53:08.118Z thumbsup:error 'gallery/my-style.css' wasn't found. Tried - gallery/my-style.css,/usr/local/lib/node_modules/thumbsup/node_modules/@thumbsup/theme-flow/theme/gallery/my-style.css,npm://gallery/my-style.css,gallery/my-style.css
-2019-12-24T04:53:25.707Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2019-12-24T04:53:25.709Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2019-12-24T05:03:07.154Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2019-12-24T05:03:07.156Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2019-12-24T13:45:52.266Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2019-12-24T13:45:52.268Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2019-12-24T19:09:59.975Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2019-12-24T19:09:59.977Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.

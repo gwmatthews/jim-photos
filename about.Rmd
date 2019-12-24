@@ -1,0 +1,11 @@
+
+- [home](index.html)
+- [gallery](gallery.html)
+
+# about
+
+<div class="random-photo">
+<script src="randomPhoto.js"></script>
+</div>
+
+> I've been taking photos for many years with film cameras, crappy cameras and digital cameras. I hope you enjoy my work.

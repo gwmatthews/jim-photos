@@ -1,0 +1,10 @@
+name: "jim matthews photos"
+title: "jim matthews photos"
+exclude:
+  - config.json
+  - photos
+output_dir: "docs"
+output:
+  html_document:
+    theme: simplex
+    css: my-style.css
