@@ -1,0 +1,24 @@
+header {
+background-color: #222;
+  color: #828;
+}
+
+body {
+  background-color: #222;
+  color: #888;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+a {
+  color: rgb(249, 38, 114);
+}
+
+a {
+  color: #8C326E;
+}
+
+a:hover {
+  color: #c8d;
+  text-decoration: none;
+}
