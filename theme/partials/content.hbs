@@ -47,24 +47,6 @@
     <a class="breadcrumb-item" href="{{relative album.url}}">{{album.title}}</a>
   </nav>
 
-  <!--
-    Nested albums, if any
-  -->
-
-<div id="albums">
-    {{#each album.albums~}}
-      <a href="{{relative url}}" style="background-image: url('{{relative previews.0.urls.large}}')">
-        <div class="info">
-          <h3>{{title}}</h3>
-          <div class="summary">{{summary}}</div>
-          <div class="date">{{{date stats.fromDate}}} - {{{date stats.toDate}}}</div>
-        </div>
-      </a>
-    {{~/each}}
-  </div>
-
-
-
 
 <!--
     Nested albums, if any
