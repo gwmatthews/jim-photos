@@ -1,7 +1,8 @@
 ---
-title: "Jim Matthews"
+title: "photos by Jim Matthews"
 ---
-
+<br>
+<br>
 <div class="random-photo">
 <script src="randomPhoto.js"></script>
 </div>

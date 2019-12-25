@@ -1,9 +1,12 @@
 ---
 title: about
 ---
-
+<br>
+<br>
 <div class="random-photo">
 <script src="randomPhoto.js"></script>
 </div>
 
-> I've been taking photos for many years with film cameras, crappy cameras and digital cameras. I hope you enjoy my work.
+> I've been taking photos for many years with 35mm cameras, crappy larger format cameras and more recently digital cameras. I hope you enjoy my work.
+
+> <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/2.0/80x15.png" /></a> This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/2.0/">Creative Commons Attribution-ShareAlike 2.0 Generic License</a>.

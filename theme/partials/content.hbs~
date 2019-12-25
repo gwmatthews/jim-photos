@@ -36,12 +36,11 @@
 
   <!--
     Gallery title
-  
+  -->
   <header>
     <h1><a href="{{relative gallery.home.url}}">{{gallery.title}}</a></h1>
   </header>
 
--->
   <!--
     Breadcrumbs of parent albums
   -->
