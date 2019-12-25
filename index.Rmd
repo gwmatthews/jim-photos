@@ -1,8 +1,6 @@
-
-- [gallery](gallery.html)
-- [about](about.html)
-
-# jim matthews photos
+---
+title: "Jim Matthews"
+---
 
 <div class="random-photo">
 <script src="randomPhoto.js"></script>

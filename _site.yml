@@ -3,6 +3,17 @@ title: "jim matthews photos"
 exclude:
   - config.json
   - photos
+navbar:
+  title: ""
+  left:
+    - text: "home"
+      href: index.html
+    - text: "about"
+      href: about.html
+    - text: "gallery"
+      href: gallery.html
+  
+
 output_dir: "docs"
 output:
   html_document:

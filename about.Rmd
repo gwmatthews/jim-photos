@@ -1,8 +1,6 @@
-
-- [home](index.html)
-- [gallery](gallery.html)
-
-# about
+---
+title: about
+---
 
 <div class="random-photo">
 <script src="randomPhoto.js"></script>
