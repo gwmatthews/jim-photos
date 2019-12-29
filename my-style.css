@@ -22,12 +22,12 @@ body {
 }
 
 .summary, .date {
-  color: #bbb;
+  color: #eee;
   font-weight: normal;
 }
 
 .info h3 {
-  color: #bbb;
+  color: #faf;
 }
 
 a {

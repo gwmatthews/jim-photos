@@ -1,8 +1,10 @@
 {
   "input": "./photos",
   "output": "./docs",
+  "clean": "true",
   "title": "gallery",
+  "home-album-name": "gallery",
+  "gm-args": "border 5x5",
   "index": "gallery.html",
-  "theme": "cards",
-  "theme-style": "./my-style.css"
-}
+  "theme-path": "./theme"
+ }
