@@ -17,5 +17,7 @@ navbar:
 output_dir: "docs"
 output:
   html_document:
+    include:
+      in_head: header.html
     theme: simplex
     css: my-style.css
