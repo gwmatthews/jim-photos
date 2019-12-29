@@ -4,7 +4,6 @@
   "clean": "true",
   "title": "gallery",
   "home-album-name": "gallery",
-  "gm-args": "border 5x5",
   "index": "gallery.html",
   "theme-path": "./theme"
  }
